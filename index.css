@@ -1,0 +1,9 @@
+body{
+    background-image: url(img/maxresdefault.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#table{
+   margin-top: 3%; 
+}

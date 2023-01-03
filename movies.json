@@ -1,0 +1,204 @@
+[
+    {
+        "poster": "https://i.guim.co.uk/img/static/sys-images/Arts/Arts_/Pictures/2009/2/5/1233833772569/Al-Pacino-in-The-Godfathe-002.jpg?width=465&quality=85&dpr=1&s=none",
+        "titre": "the good father ",
+        "réalisateur": "francis ford ",
+        "durée": "120 ",
+        "production": 1997,
+        "festivals": ["merakech", "rabat"],
+        "acteurs": [
+            {
+                "prénom":" pacino",
+                "nom": "al",
+                "nationalité": "american"
+            },
+            {
+                "prénom": "james",
+                "nom": "caan",
+                "nationalité": "american"
+            }
+         
+        ]
+    },
+    {
+        "poster":"https://images.rtl.fr/~c/2000v2000/rtl/www/1506331-la-suite-d-avatar-plusieurs-fois-repoussee-devrait-sortir-en-salles-fin-2022.jpg",
+        "titre": "avatar",
+        "réalisateur": "yrs cameron",
+        "durée": "165",
+        "production": "2009",
+        "festivals": ["merakech", "rabat"],
+        "acteurs": [
+            {
+                "prénom": "zoa",
+                "nom": "saldena",
+                "nationalité": "american"
+            },
+            {
+                "prénom": "mishell",
+                "nom": "rodrique",
+                "nationalité": "american"
+            }
+        ]   
+    },
+    {
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiotskdRwsqkA50EJ3tvLwgVyag1O27eYXRuEXOrFEcLyDXb9e",
+        "titre": "the Dark Knight",
+        "réalisateur": "Christopher Nolan",
+        "durée": 150,
+        "production": "2009",
+        "festivals": ["merakech", "rabat"],
+        "acteurs": [
+            {
+                "prénom": "Christian",
+                "nom": " Bale",
+                "nationalité": "american"
+            },
+            {
+                "prénom": " Eckhart",
+                "nom": "Aaron",
+                "nationalité": "american"
+            }
+        ]   
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGQ1ZGZmNTAtM2MyYi00NmZhLTkwYmYtNTNlZDRhMzU2ZTgwXkEyXkFqcGdeQW1yb3NzZXI@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+        "titre": "joker",
+        "réalisateur": "Todd Phillips",
+        "durée": 120,
+        "production": "2019",
+        "festivals": ["merakech","rabat"],
+        "acteurs": [
+            {
+                "prénom":"zoa",
+                "nom": "saldena",
+                "nationalité":"american"
+            },
+            {
+                "prénom":"mishell",
+                "nom": "rodrique",
+                "nationalité": "american"
+            }
+        ]   
+    },
+    {
+        "poster": "https://i.ytimg.com/vi/vvx7m22GGtA/maxresdefault.jpg",
+        "titre": "Le Seigneur des anneaux",
+        "réalisateur": "Peter Jackson",
+        "durée": "200",
+        "production": "1998",
+        "festivals": ["tanger", "rabat"],
+        "acteurs": [
+            {
+                "prénom": "Elijah ",
+                "nom": "Wood",
+                "nationalité": "american"
+            },
+            {
+                "prénom": "mishell",
+                "nom": "rodrique",
+                "nationalité": "american"
+            }
+        ]   
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/I/51Q038EWGAL._AC_SY445_.jpg",
+        "titre": "Le Bon, la brute, le truand",
+        "réalisateur": "james cameron",
+        "durée": "161",
+        "production": "1966",
+        "festivals": ["merakech", "rabat"],
+        "acteurs": [
+            {
+                "prénom": "zoa",
+                "nom": "saldena",
+                "nationalité": "american"
+            },
+            {
+                "prénom": "mishell",
+                "nom": "rodrique",
+                "nationalité": "american"
+            }
+        ]   
+    },
+    {
+        "poster": "https://fr.web.img6.acsta.net/medias/04/34/49/043449_af.jpg",
+        "titre": "Matrix",
+        "réalisateur": " Lana Wachowski",
+                       
+        "durée": "131",
+        "production": "1999",
+        "festivals": ["merakech", "rabat"],
+        "acteurs": [
+            {
+                "prénom": "Reeves",
+                "nom": "Keanu",
+                "nationalité": "american"
+            },
+            {
+                "prénom": "mishell",
+                "nom": "rodrique",
+                "nationalité": "american"
+            }
+        ]   
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/I/51fQWOTDz9L._AC_SY580_.jpg",
+        "titre": "Gladiator",
+        "réalisateur": "Ridley Scott",
+        "durée": "165",
+        "production": "2009",
+        "festivals": ["merakech", "rabat"],
+        "acteurs": [
+            {
+                "prénom": "Connie",
+                "nom": "Nielsen",
+                "nationalité": "american"
+            },
+            {
+                "prénom": "mishell",
+                "nom": "rodrique",
+                "nationalité": "american"
+            }
+        ]   
+    },
+    {
+        "poster": "https://fr.web.img6.acsta.net/medias/nmedia/18/36/21/63/18680971.jpg",
+        "titre": "Les infiltrés",
+        "réalisateur": "Martin Scorsese",
+        "durée": "151",
+        "production": "2006",
+        "festivals": ["merakech", "rabat"],
+        "acteurs": [
+            {
+                "prénom": "Youness",
+                "nom": "el khamlichi",
+                "nationalité": "american"
+            },
+            {
+                "prénom": "anas ",
+                "nom": "el khamlichi",
+                "nationalité": "maroc"
+            }
+        ]   
+    },
+    {
+        "poster": "https://m.media-amazon.com/images/M/MV5BODY0MDM1MDE2OV5BMl5BanBnXkFtZTcwMzEyMjkyNw@@._V1_.jpg",
+        "titre": "Intouchables",
+        "réalisateur": " Olivier Nakache",
+        "durée": 150,
+        "production": "2009",
+        "festivals": ["merakech", "tanja"],
+        "acteurs": [
+            {
+                "prénom": "annas ",
+                "nom": "el khamlichi",
+                "nationalité": "maroc"
+            },
+            {
+                "prénom": "emad",
+                "nom": "el khamlichi",
+                "nationalité": "american"
+            }
+        ]   
+    }    
+]
